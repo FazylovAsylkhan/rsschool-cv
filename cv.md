@@ -1,4 +1,4 @@
-![avatar](https://fazylovasylkhan.github.io/rsschool-cv/ava)
+![avatar](https://github.com/FazylovAsylkhan/rsschool-cv/blob/gh-pages/ava.JPG?raw=true)
 # **Fazylov Asylkhan**
 ## **Junior (Trainee)<br>Front-End Developer** 
   

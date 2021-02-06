@@ -56,7 +56,7 @@ Email: [fazylov.asylkhan@gmail.com](mailto:fazylov.asylkhan@gmail.com)\
 Location: [Kazakhstan, Oral](https://goo.gl/maps/a6ju9JZoDWiM4j2B9)\
 Facebook: [fb.me/asylkhan](https://www.facebook.com/asylkhan.fazylov)\
 LinkedIn: [in.me/asylkhan](https://www.linkedin.com/in/asylkhan1703/)\
-GitHub: [gh.me/asylkhan](https://github.com/asylkhan1703)
+GitHub: [gh.me/asylkhan](https://github.com/FazylovAsylkhan)
 
 
 ---

@@ -1,3 +1,4 @@
+![avatar](https://fazylovasylkhan.github.io/rsschool-cv/ava)
 # **Fazylov Asylkhan**
 ## **Junior (Trainee)<br>Front-End Developer** 
   

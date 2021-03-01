@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Fazylov Asylkhan</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="./css/fonts.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="wrapper">
+            <header class="promo">
+                <h1 class="promo__title">Fazylov<br>Asylkhan</h1>
+                <img class="promo__avatar" src="https://github.com/FazylovAsylkhan/rsschool-cv/blob/rsschool-cv-html/img/avatar.JPG?raw=true" alt="avatar" >
+                <div class="promo__social-links">
+                    <a class="promo__link" href="https://www.facebook.com/asylkhan.fazylov" ><span
+                            class="icons icon-facebook"></span></a>
+                    <a class="promo__link" href="https://www.linkedin.com/in/asylkhan1703/"><span
+                            class="icons icon-linkedin"></span></a>
+                    <a class="promo__link" href="https://github.com/FazylovAsylkhan"><span
+                            class="icons icon-github"></span></a>
+                </div>
+                <h2 class="promo__subtitle">Junior (Trainee)<br>Front-End Developer</h2>
+            </header>
+            <main class="information">
+                <div class="about">
+                    <h3 class="title">ABOUT ME</h3>
+                    <div class="descr">
+                        Friendly, proactive. I love what I do..
+                    </div>
+                    <h3 class="title">EDUCATION</h3>
+                    <ul class="descr">
+                        <li>Almaty University of Power Engineering and Telecommunications (2018-2022)</li>
+                        <li>Course Udemy WEB-development 2020 (33.5 hours)</li>
+                    </ul>
+                    <h3 class="title">lANGUAGES</h3>
+                    <ul class="descr">
+                        <li>English: A2</li>
+                        <li>Russian & Kazakh: Native</li>
+                    </ul>
+                    <h3 class="title">CODE</h3>
+                    <code class="wrapper code">
+                        <pre>
+<span class="pink">function</span> <span class="blue">reqursiveBinarySearch</span>(<span class="orange">arr</span>, <span class="orange">item</span>, <span class="orange">leftIndex</span> = <span class="orange">0</span>; <span class="orange">rightIndex</span> = array.length) {
+    <span class="pink">if</span> (leftIndex > rightIndex) {
+        <span class="pink">return</span> <span class="orange">null</span>;
+    } <span class="pink">else if</span> (leftIndex <= rightIndex) { 
+        <span class="pink">let</span> halfSumIndex = (leftIndex + rightIndex) / <span class="orange">2</span>; 
+        <span class="pink">if</span> (Array[halfSumIndex] = item) {
+        <span class="pink">return</span> halfSumIndex; 
+        } <span class="pink">else if</span> (Array[halfSumIndex] != item && Array[halfSumIndex] > item) {
+        <span class="pink">return</span> <span class="blue">reqursiveBinarySearch</span>(Array, item, leftIndex, (halfSumIndex - <span class="orange">1</span>))
+        } <span class="pink">else if</span>(Array[halfSumIndex] < item) { 
+        <span class="pink">return</span> <span class="blue">reqursiveBinarySearch</span>(Array, item, (halfSumIndex + <span class="orange">1</span>), rightIndex) 
+        }
+    }
+}
+                        </pre>
+                    </code>
+                    <div class="wrapper ">
+                        <div class="information__box">
+                            <h3 class="title">SKILLS</h3>
+                            <ul class="descr">
+                                <li>HTML5</li>
+                                <li>CSS3</li>
+                                <li>JS</li>
+                                <li>BEM</li>
+                            </ul>
+                        </div>
+                        <div class="information__box">
+                            <h3 class="title">TOOLS</h3>
+                            <ul class="descr">
+                                <li>Adobe Photoshop & Illustrator</li>
+                                <li>Sass/Scss</li>
+                                <li>Gulp 4</li>
+                                <li>Git</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="wrapper ">
+                        <div class="information__box">
+                            <h3 class="title">QUALITIES</h3>
+                            <ul class="descr">
+                                <li>Analitical mindset</li>
+                                <li>Fast learner</li>
+                                <li>Team player</li>
+                                <li>Ability to learn independently</li>
+                            </ul>
+                        </div>
+                        <div class="information__box">
+                            <h3 class="title">BOOKS</h3>
+                            <ul class="descr">
+                                <li>Grokking Algorithms by Aditya Bhargava</li>
+                                <li>Algorithms Unlocked by Thomas Cormen</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </main>
+            <footer class="contacts">
+                <div class="phone">
+                    Phone: <a href="tel:+77774702838">+7 (777) 370-28-38</a>
+                </div>
+                <div class="email">
+                    Email: <a href="mailto:fazylov.asylkhan@gmail.com">fazylov.asylkhan@gmail.com</a>
+                </div>
+                <div class="location">
+                    Location: <a href="https://goo.gl/maps/a6ju9JZoDWiM4j2B9">Kazakhstan, Oral</a>
+                </div>
+                <div class="copyright">
+                    Actual on 06.02.2021
+                </div>
+            </footer>
+        </div>
+    </div>
+
+
+</body>
+
+</html>

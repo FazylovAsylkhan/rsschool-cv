@@ -125,7 +125,7 @@ a {
 }
 .code {
     margin-top: 20px;
-    padding: 15px 15px 0px 15px;
+    padding: 15px;
     background: #1B2B34;
     border-radius: 4px;
     color: #fff;
@@ -149,9 +149,12 @@ a {
 .blue {
     color: #567DA6;
 }
-.pink {
-    color: #B789B2;
+.white {
+    color: #fff;
 }
-.orange {
-    color: #ED7B4F;
+.sky-blue {
+    color: #3bfdfd;
+}
+.green {
+    color: #248b24;
 }

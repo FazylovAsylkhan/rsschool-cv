@@ -72,6 +72,9 @@ a {
     position: relative;
     width: 188px;
 }
+.promo__social-links > li {
+    margin: 0;
+}
 .icons {
     font-size: 50px;
     color: #3A3A3A;
@@ -145,7 +148,6 @@ a {
     font-size: 14px;
     font-style: italic;
 }
-
 .blue {
     color: #567DA6;
 }
@@ -156,5 +158,5 @@ a {
     color: #3bfdfd;
 }
 .green {
-    color: #248b24;
+    color: #4ed14e;
 }
